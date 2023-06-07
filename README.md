@@ -1,2 +1,2 @@
 # langchain-demo
-a langchain demo 
+a langchain demo for learn LLMs
